@@ -2,3 +2,5 @@
 *.exe
 #ignoring classes of java
 *.class
+#ignore .o
+*.o
